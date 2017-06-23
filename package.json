@@ -1,6 +1,6 @@
 {
   "name": "conventional-changelog-esdoc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "conventional-changelog esdoc preset fork from conventional-changelog-angular",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conventional-changelog/conventional-changelog-angular.git"
+    "url": "git+https://github.com/TuanLDT/conventional-changelog-esdoc.git"
   },
   "keywords": [
     "conventional-changelog",
